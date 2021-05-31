@@ -1,0 +1,10 @@
+{
+  "name": "esbuild-plugin-globalvar",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack --watch"
+  },
+  "dependencies": {
+    "esbuild": "^0.12.0"
+  }
+}
